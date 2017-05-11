@@ -1,10 +1,7 @@
-# U3_FinalProject
-Final Project for Creative Coding course, Semester 2.
+# Clusters
+by Prithvi Subrahmanyam.
 
-
-<h2>Clusters</h2>
-
-by Prithvi Subrahmanyam
+Created as final project for unit 3 of Creative Coding.
 
 <h2>Description</h2>
 
